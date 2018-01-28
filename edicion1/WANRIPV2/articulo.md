@@ -16,4 +16,5 @@ Como podéis observar he separado en distintos círculos cada red local. Pongamo
 -	La conexión entre los Router –PT se hacen mediante las interfaces serial.
   
   
+  
   ## Configuración de los equipos de la red
