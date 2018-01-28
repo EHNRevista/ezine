@@ -3,7 +3,9 @@
 En este artículo vamos a ver cómo podríamos realizar la configuración en una red WAN (Red de Área Extensa) utilizando el protocolo de enrutamiento dinámico RIPv2. Para la práctica usaremos el software de Cisco “Packet Tracer” para poder simular el comportamiento de la red. 
 
 La herramienta Cisco Packet Tracer cuenta con una alta variedad de posibilidades para la experimentación del comportamiento de la red. Destacar también su facilidad de utilización, además en internet hay infinidad de tutoriales y manuales para su uso y creación de redes.
-Comencemos con la práctica imaginándonos la situación de que necesitamos comunicar varias redes LAN (Redes de Área Local) las cuales están situadas en distintas ubicaciones (ej. En distintos edificios). Crearemos un escenario básico para realizar el ejercicio, para integrar routers, switchs y cualquier componente informático es tan sencillo como localizarlo y arrastrarlo al escenario:
+Comencemos con la práctica imaginándonos la situación de que necesitamos comunicar varias redes LAN (Redes de Área Local) las cuales están situadas en distintas ubicaciones (ej. En distintos edificios). 
+
+Crearemos un escenario básico para realizar el ejercicio, para integrar routers, switchs y cualquier componente informático es tan sencillo como localizarlo y arrastrarlo al escenario:
 
 Como podéis observar he separado en distintos círculos cada red local. Pongamos que el círculo amarillo representaría el edificio1 y el círculo verde el edificio2. Analicemos la imagen para aclarar diferentes términos:
 
