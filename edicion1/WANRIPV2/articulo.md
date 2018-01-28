@@ -9,11 +9,11 @@ Crearemos un escenario básico para realizar el ejercicio, para integrar routers
 
 Como podéis observar he separado en distintos círculos cada red local. Pongamos que el círculo amarillo representaría el edificio1 y el círculo verde el edificio2. Analicemos la imagen para aclarar diferentes términos:
 
-  -	Las direcciones IP para las redes locales serán de clase C, mientras que para los routers que conectan una red con otra serán de clase      B.
-  -	Los cuadros de texto .1 y .2 representan el número de la interfaz Gigabit Ethernet que se usa para esa conexión.
-  -	Cada switch representaría una sala, al cual estarían conectados los equipos. En este caso solo he puesto uno para que la configuración     no sea tan tediosa.
-  -	Los routers utilizados para las redes ethernet tienen de nombre en Packet Tracer “1941” mientras que los dos routers (Router -PT) que     serán utilizados para la conexión entre edificios son “Generic”.
-  -	La conexión entre los Router –PT se hacen mediante las interfaces serial.
+-	Las direcciones IP para las redes locales serán de clase C, mientras que para los routers que conectan una red con otra serán de clase      B.
+-	Los cuadros de texto .1 y .2 representan el número de la interfaz Gigabit Ethernet que se usa para esa conexión.
+-	Cada switch representaría una sala, al cual estarían conectados los equipos. En este caso solo he puesto uno para que la configuración    no sea tan tediosa.
+-	Los routers utilizados para las redes ethernet tienen de nombre en Packet Tracer “1941” mientras que los dos routers (Router -PT) que    serán utilizados para la conexión entre edificios son “Generic”.
+-	La conexión entre los Router –PT se hacen mediante las interfaces serial.
   
   
   ## Configuración de los equipos de la red
