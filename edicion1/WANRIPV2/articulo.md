@@ -1,4 +1,4 @@
-#Conexión de redes WAN mediante RIPv2
+# Conexión de redes WAN mediante RIPv2
 
 En este artículo vamos a ver cómo podríamos realizar la configuración en una red WAN (Red de Área Extensa) utilizando el protocolo de enrutamiento dinámico RIPv2. Para la práctica usaremos el software de Cisco “Packet Tracer” para poder simular el comportamiento de la red. 
 
