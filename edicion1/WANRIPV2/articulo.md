@@ -20,4 +20,4 @@ Como podéis observar he separado en distintos círculos cada red local. Pongamo
   
   
   
-  ## Configuración de los equipos de la red
+  ### Configuración de los equipos de la red
